@@ -1,1 +1,1 @@
-# Automated-testing
+# example-ci
